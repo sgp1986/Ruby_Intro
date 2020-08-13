@@ -37,3 +37,4 @@ end
 p "before no_mutate method: #{b}"
 no_mutate(b)
 p "after no_mutate method: #{b}"
+
